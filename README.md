@@ -29,6 +29,6 @@ Installation & Setup
 
  Clone the Repository  
    bash
-   git clone https://github.com/your-username/Skycast.git
+   git clone https://github.com/ShivamSwaroop/Weather-Forecasting-Application.git
 
 
