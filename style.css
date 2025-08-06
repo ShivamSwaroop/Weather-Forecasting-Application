@@ -1,0 +1,22 @@
+
+body{
+  transition:background 0.8s ease;
+}
+
+#weatherCard, #forecastSection {
+  transition: transform 0.4s ease, opacity 0.4s ease;
+}
+
+#weatherCard.show, #forcastSection.show {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+input:focus,select:focus {
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+}
+
+button:hover {
+  transform: scale(1.05);
+  transition: transform 0.2s;
+}
