@@ -1,7 +1,7 @@
 
 // generate your API key form this website - https://home.openweathermap.org/api_keys
 
-const apiKey = 'bd4aeb68d4640858537dfa6da3180af0'; // You can replace it with your OpenWeatherMap API Key
+const apiKey = 'Your API key'; // You can replace it with your OpenWeatherMap API Key
 
 //DOM elements refrence
 const weatherCard = document.getElementById('weatherCard');
